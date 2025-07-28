@@ -162,7 +162,9 @@ This extension supports all major browsers through WXT's universal browser compa
 
 ## License
 
-MIT License - feel free to use this template for your projects!
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
+Apache-2.0 License - feel free to use this template for your projects!
 
 ## Contributing
 
